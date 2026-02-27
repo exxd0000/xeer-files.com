@@ -1,0 +1,232 @@
+export const en = {
+  // Navigation
+  nav: {
+    home: 'Home',
+    tools: 'All Tools',
+    pricing: 'Pricing',
+    help: 'Help',
+    login: 'Login',
+    signup: 'Sign Up',
+    account: 'Account',
+    logout: 'Logout',
+  },
+
+  // Hero Section
+  hero: {
+    title: 'Every PDF tool you need',
+    subtitle: 'in one place',
+    description: 'Merge, split, compress, convert, rotate, unlock and watermark PDFs with ease. All tools are free and easy to use!',
+    cta: 'Explore Tools',
+  },
+
+  // Tools
+  tools: {
+    all: 'All Tools',
+    organize: 'Organize PDF',
+    optimize: 'Optimize PDF',
+    convertTo: 'Convert to PDF',
+    convertFrom: 'Convert from PDF',
+    edit: 'Edit PDF',
+    security: 'PDF Security',
+    ai: 'AI Intelligence',
+    popular: 'Popular Tools',
+    viewAll: 'View All Tools',
+  },
+
+  // Tool names
+  toolNames: {
+    merge: 'Merge PDF',
+    split: 'Split PDF',
+    compress: 'Compress PDF',
+    organize: 'Organize PDF',
+    rotate: 'Rotate PDF',
+    watermark: 'Add Watermark',
+    pageNumbers: 'Add Page Numbers',
+    protect: 'Protect PDF',
+    unlock: 'Unlock PDF',
+    repair: 'Repair PDF',
+    ocr: 'OCR PDF',
+    compare: 'Compare PDF',
+    sign: 'Sign PDF',
+    edit: 'Edit PDF',
+    crop: 'Crop PDF',
+    redact: 'Redact PDF',
+    pdfToWord: 'PDF to Word',
+    pdfToExcel: 'PDF to Excel',
+    pdfToPowerpoint: 'PDF to PowerPoint',
+    pdfToJpg: 'PDF to JPG',
+    wordToPdf: 'Word to PDF',
+    excelToPdf: 'Excel to PDF',
+    powerpointToPdf: 'PowerPoint to PDF',
+    jpgToPdf: 'JPG to PDF',
+    htmlToPdf: 'HTML to PDF',
+    summarize: 'Summarize PDF',
+    translate: 'Translate PDF',
+    chat: 'Chat with PDF',
+    extractData: 'Extract Data',
+  },
+
+  // File Upload
+  upload: {
+    dropzone: 'Drag & drop files here',
+    or: 'or',
+    browse: 'Browse files',
+    selectFiles: 'Select PDF files',
+    uploading: 'Uploading...',
+    processing: 'Processing...',
+    maxSize: 'Max file size:',
+    formats: 'Supported formats:',
+    addMore: 'Add more files',
+    removeAll: 'Remove all',
+  },
+
+  // Processing
+  process: {
+    start: 'Process',
+    processing: 'Processing...',
+    done: 'Done!',
+    failed: 'Failed',
+    download: 'Download',
+    downloadAll: 'Download All',
+    deleteNow: 'Delete Now',
+    expiresIn: 'Expires in',
+    expired: 'Expired',
+    retry: 'Retry',
+  },
+
+  // Options
+  options: {
+    quality: 'Quality',
+    compression: 'Compression Level',
+    low: 'Low',
+    medium: 'Medium',
+    high: 'High',
+    extreme: 'Extreme',
+    pages: 'Pages',
+    allPages: 'All Pages',
+    customRange: 'Custom Range',
+    position: 'Position',
+    font: 'Font',
+    fontSize: 'Font Size',
+    color: 'Color',
+    opacity: 'Opacity',
+    rotation: 'Rotation',
+  },
+
+  // Pricing
+  pricing: {
+    title: 'Choose your plan',
+    subtitle: 'Get more with Premium',
+    free: 'Free',
+    premium: 'Premium',
+    monthly: 'Monthly',
+    yearly: 'Yearly',
+    perMonth: '/month',
+    perYear: '/year',
+    save: 'Save',
+    mostPopular: 'Most Popular',
+    getStarted: 'Get Started',
+    goPremium: 'Go Premium',
+    currentPlan: 'Current Plan',
+    features: 'Features',
+    limitations: 'Limitations',
+  },
+
+  // Redeem
+  redeem: {
+    title: 'Redeem Code',
+    subtitle: 'Enter your access code to unlock premium features',
+    placeholder: 'Enter your code',
+    submit: 'Redeem',
+    success: 'Code redeemed successfully!',
+    error: 'Invalid or expired code',
+    alreadyUsed: 'This code has already been used',
+  },
+
+  // Account
+  account: {
+    title: 'My Account',
+    profile: 'Profile',
+    subscription: 'Subscription',
+    usage: 'Usage',
+    settings: 'Settings',
+    billing: 'Billing',
+    plan: 'Current Plan',
+    expiresOn: 'Expires on',
+    neverExpires: 'Never expires',
+    operations: 'Operations today',
+    ocrOperations: 'OCR operations today',
+    aiRequests: 'AI requests today',
+  },
+
+  // Footer
+  footer: {
+    product: 'Product',
+    resources: 'Resources',
+    company: 'Company',
+    legal: 'Legal',
+    home: 'Home',
+    features: 'Features',
+    pricing: 'Pricing',
+    tools: 'Tools',
+    faq: 'FAQ',
+    blog: 'Blog',
+    help: 'Help',
+    about: 'About Us',
+    contact: 'Contact',
+    privacy: 'Privacy Policy',
+    terms: 'Terms of Service',
+    cookies: 'Cookie Policy',
+    refund: 'Refund Policy',
+    copyright: 'All rights reserved.',
+    madeWith: 'Made with',
+  },
+
+  // Common
+  common: {
+    loading: 'Loading...',
+    error: 'Error',
+    success: 'Success',
+    cancel: 'Cancel',
+    confirm: 'Confirm',
+    save: 'Save',
+    delete: 'Delete',
+    edit: 'Edit',
+    close: 'Close',
+    back: 'Back',
+    next: 'Next',
+    previous: 'Previous',
+    submit: 'Submit',
+    search: 'Search',
+    filter: 'Filter',
+    sort: 'Sort',
+    reset: 'Reset',
+    clear: 'Clear',
+    yes: 'Yes',
+    no: 'No',
+    ok: 'OK',
+  },
+
+  // Messages
+  messages: {
+    fileTooLarge: 'File size exceeds the limit',
+    invalidFormat: 'Invalid file format',
+    uploadFailed: 'Upload failed',
+    processingFailed: 'Processing failed',
+    downloadReady: 'Your file is ready to download',
+    filesExpiringSoon: 'Your files will be deleted in',
+    dailyLimitReached: 'Daily limit reached',
+    upgradeForMore: 'Upgrade to Premium for unlimited access',
+    loginRequired: 'Please login to continue',
+    premiumRequired: 'This feature requires Premium',
+  },
+
+  // SEO
+  seo: {
+    title: 'Xeer Files - Free Online PDF Tools',
+    description: 'Free online PDF tools to merge, split, compress, convert, rotate, unlock and watermark PDFs. Fast, secure, and easy to use.',
+    keywords: 'PDF, merge PDF, split PDF, compress PDF, convert PDF, online PDF tools, free PDF editor',
+  },
+};
+
+export type TranslationKeys = typeof en;

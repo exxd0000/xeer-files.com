@@ -1,0 +1,12 @@
+{
+  "name": "Xeer Files - PDF & Image Tools",
+  "short_name": "Xeer Files",
+  "description": "Free online PDF and image processing tools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
